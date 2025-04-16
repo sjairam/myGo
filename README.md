@@ -1,0 +1,2 @@
+# myGo
+my Go stuff
